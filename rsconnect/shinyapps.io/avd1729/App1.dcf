@@ -1,0 +1,12 @@
+name: App1
+title: App1
+username: avd1729
+account: avd1729
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9551331
+bundleId: 7528450
+url: https://avd1729.shinyapps.io/App1/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
